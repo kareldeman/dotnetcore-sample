@@ -1,1 +1,1 @@
-[<img src="https://kareldeman.visualstudio.com/_apis/public/build/definitions/1756beb8-33df-44ae-b9b3-f07d93d8dfbd/10/badge/>"](https://kareldeman.visualstudio.com/adventworks/_build/index?definitionId=10)
+[<img src="https://kareldeman.visualstudio.com/_apis/public/build/definitions/1756beb8-33df-44ae-b9b3-f07d93d8dfbd/10/badge"/>](https://kareldeman.visualstudio.com/adventworks/_build/index?definitionId=10)
